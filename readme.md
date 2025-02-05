@@ -14,8 +14,6 @@ Certains sont récupérés sur le repo devicon : https://github.com/devicons/dev
 
 D'autres sur wikimedia commons
 
-Les ressources sur le tuilage sur geotribu  https://www2.geotribu.fr/articles/2014/2014-03-24_non_mapserver_geoserver_tilecache_ne_sont_pas_toujours_necessaires/#pre-generation-de-tuiles-comment-faire
-
 ### Principes
 
 Des dossiers avec pleins de choses, à (main)tenir à jour ou à compléter :-D
